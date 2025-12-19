@@ -5,10 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
 @SpringBootApplication
-public class WmadworkApplication {
+public class wmadworkApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(WmadworkApplication.class, args);
+        SpringApplication.run(wmadworkApplication.class, args);
     }
 
 }
